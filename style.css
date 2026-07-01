@@ -108,7 +108,18 @@ text-decoration:none;
 font-weight:600;
 transition:.3s;
 }
+#packages{
+    text-align:center;
+    padding:40px 20px;
+}
 
+#packages img{
+    width:100%;
+    max-width:320px;
+    display:block;
+    margin:20px auto;
+    border-radius:15px;
+}
 .btn{
 background:#D4AF37;
 color:#111;
