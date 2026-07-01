@@ -8,7 +8,7 @@ scroll-behavior:smooth;
 
 body{
 background:#090909;
-color:#fff;
+color:#D4AF37
 }
 
 header{
@@ -29,7 +29,7 @@ align-items:center;
 }
 
 .logo{
-color:#FFD700;
+color:#D4AF37;
 font-size:28px;
 font-weight:700;
 }
@@ -48,7 +48,7 @@ font-weight:500;
 }
 
 nav ul li a:hover{
-color:#FFD700;
+color:#D4AF37;
 }
 
 .hero{
@@ -65,7 +65,7 @@ max-width:600px;
 }
 
 .hero-text h3{
-color:#FFD700;
+color:#D4AF37;
 font-size:24px;
 margin-bottom:10px;
 }
@@ -110,7 +110,7 @@ transition:.3s;
 }
 
 .btn{
-background:#FFD700;
+background:#D4AF37;
 color:#111;
 }
 
@@ -119,12 +119,12 @@ transform:translateY(-5px);
 }
 
 .btn2{
-border:2px solid #FFD700;
-color:#FFD700;
+border:2px solid #D4AF37;
+color:#D4AF37;
 }
 
 .btn2:hover{
-background:#FFD700;
+background:#D4AF37;
 color:#111;
 }
 
@@ -136,7 +136,7 @@ section h2{
 text-align:center;
 font-size:40px;
 margin-bottom:40px;
-color:#FFD700;
+color:#D4AF37;
 }
 
 .cards{
@@ -161,7 +161,7 @@ box-shadow:0 0 25px rgba(255,215,0,.35);
 
 .card i{
 font-size:45px;
-color:#FFD700;
+color:#D4AF37;
 margin-bottom:20px;
 }
 
@@ -171,7 +171,7 @@ margin-bottom:15px;
 
 .card h1{
 font-size:40px;
-color:#FFD700;
+color:#D4AF37;
 margin:15px 0;
 }
 
